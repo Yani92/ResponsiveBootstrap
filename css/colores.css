@@ -1,0 +1,54 @@
+.bg-verde {
+    background-color: darkgreen;
+}
+
+.bg-rojo {
+    background-color: darkred;
+}
+
+.bg-fucsia {
+    background-color: fuchsia;
+}
+
+.bg-coral {
+    background-color: coral;
+}
+
+.bg-azul {
+    background-color: darkblue;
+}
+
+.bg-cuadro2 {
+    background-color: #24060d;
+}
+
+.bg-ista {
+    background-color: lightskyblue;
+}
+
+.txt-negro {
+    color: black;
+}
+
+.txt-g {
+    color: #ccc;
+}
+
+.txt-izquierda {
+    color: bisque;
+}
+
+.txt-blanco {
+    color: azure;
+}
+
+.img-size {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+div[class^='col-'] {
+    border: 5px solid white;
+}
